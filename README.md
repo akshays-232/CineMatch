@@ -21,9 +21,10 @@ Discover your next favorite movie with **CineMatch**, a movie recommendation web
 - TMDB movie data
 
 ## 👨‍💻 Author
-**Akshay**
+**Akshay Singh**
 
 [GitHub Repository](https://github.com/akshays-232/CineMatch) · [Live App](https://discover-cinematch.streamlit.app/)
+
 
 ## 📸 App Screenshots
 
